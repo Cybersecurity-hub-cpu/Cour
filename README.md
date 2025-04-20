@@ -1,4 +1,4 @@
-# Wan2.1
++# cour2.1
 
 <p align="center">
     <img src="assets/logo.png" width="400"/>
